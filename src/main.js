@@ -1,3 +1,5 @@
+// I showed up to the tutorial during class.
+
 let config = {
     type: Phaser.CANVAS,
     rander: {
